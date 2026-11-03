@@ -172,5 +172,4 @@ git push
 
 ## Litsenziya
 
-Agar boshqalar koddan qanday foydalanishi, uni o'zgartirishi va tarqatishi mumkinligini belgilamoqchi bo'lsangiz, repo yaratishda yoki keyin mos `LICENSE` faylini qo'shing. Litsenziyasiz boshqa foydalanuvchilarning huquqlari aniq belgilanmagan bo'ladi. 
- 
+Agar boshqalar koddan qanday foydalanishi, uni o'zgartirishi va tarqatishi mumkinligini belgilamoqchi bo'lsangiz, repo yaratishda yoki keyin mos `LICENSE` faylini qo'shing. Litsenziyasiz boshqa foydalanuvchilarning huquqlari aniq belgilanmagan bo'ladi.
