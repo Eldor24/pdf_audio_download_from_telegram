@@ -1,0 +1,10 @@
+# Telegram login session: contains account authorization data
+session_channel.session*
+
+# Downloaded channel content
+cefr/
+
+# Python virtual environment and cache
+.venv/
+__pycache__/
+*.py[cod]
